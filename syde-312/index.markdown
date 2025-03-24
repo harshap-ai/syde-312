@@ -1,6 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: Home
 ---
+
+# Welcome to My Course
+
+This site contains lecture slides and videos for the course.
+
+- [Lectures](lectures.html)
+- [Syllabus](syllabus.html)
