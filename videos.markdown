@@ -14,16 +14,19 @@ Welcome to the video repository for SYDE 312. Here you'll find recordings of all
 - Click on any video to start watching
 - You can use the video controls to adjust playback speed, quality, and volume
 
-## Video List
+## Local Video Recordings
 
 {% for video in site.static_files %}
   {% if video.path contains 'assets/videos' %}
     <div class="video-entry">
       <h3>{{ video.basename }}</h3>
       <video width="100%" controls>
-        <source src="{{ site.baseurl }}/assets/videos/{{ video.basename }}.mp4" type="video/mp4">
+        <source src="{{ site.baseurl }}/{{ video.path }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
+      <div style="font-size: 0.8em; color: #666; margin-top: 5px;">
+        Debug: {{ site.baseurl }}/{{ video.path }}
+      </div>
     </div>
   {% endif %}
 {% endfor %}
