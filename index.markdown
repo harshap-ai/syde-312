@@ -31,16 +31,46 @@ title: Home
         <strong>Team Members:</strong> Rakshita Jain, Allen Liu, Amanda Yu
       </p>
     </div>
-    <div style="text-align: center;">
-      <video width="720" controls>
-        <source src="{{ site.baseurl }}/assets/videos/2blue1brown.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-      <div style="display: none">
-        Debug Info:
-        Base URL: {{ site.baseurl }}
-        Full URL: {{ site.url }}{{ site.baseurl }}/assets/videos/2blue1brown.mp4
+    <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
+      <div style="flex: 1;">
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Presentation</h4>
+        <video width="100%" controls>
+          <source src="{{ site.baseurl }}/assets/videos/2blue1brown.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
       </div>
+      <div style="flex: 1;">
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Q&A</h4>
+        <video width="100%" controls>
+          <source src="{{ site.baseurl }}/assets/videos/2blue-1brown-qa.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+    </div>
+    <div style="display: none">
+      Debug Info:
+      Base URL: {{ site.baseurl }}
+      Full URL: {{ site.url }}{{ site.baseurl }}/assets/videos/2blue1brown.mp4
+    </div>
+  </div>
+  
+  <!-- Project 2 -->
+  <div class="project-card" style="background: white; border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.1); padding: 25px; margin-bottom: 30px;">
+    <h3 style="font-size: 2em; margin-bottom: 5px; color: #2c3e50;">Team Span Fans</h3>
+    <div class="team-info" style="margin-bottom: 20px;">
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
+        <strong>Team Members:</strong> Tessa Baker, Sophie Wang, Rachel Wormald, Diana Zhang 
+      </p>
+    </div>
+    <div style="text-align: center;">
+      <iframe 
+        width="720" 
+        height="405" 
+        src="https://www.youtube.com/embed/6arxFCaueWc" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+      </iframe>
     </div>
   </div>
   
