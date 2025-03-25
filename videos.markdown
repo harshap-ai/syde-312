@@ -24,6 +24,9 @@ Welcome to the video repository for SYDE 312. Here you'll find recordings of all
         <source src="{{ site.baseurl }}{{ video.path }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
+      <div style="font-size: 0.8em; color: #666; margin-top: 5px;">
+        Debug: {{ site.baseurl }}{{ video.path }}
+      </div>
     </div>
   {% endif %}
 {% endfor %}
