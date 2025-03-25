@@ -94,10 +94,15 @@ title: Home
     </div>
     <div style="text-align: center;">
       <h4 style="color: #2c3e50; margin-bottom: 10px;">Presentation + Q&A</h4>
-      <video width="100%" controls>
-        <source src="{{ site.baseurl }}/assets/videos/eigenforce.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+        <iframe 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          src="https://www.youtube.com/embed/xetDZBtKv6g" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+      </div>
     </div>
   </div>
   
