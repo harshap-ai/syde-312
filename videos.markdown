@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Course Videos
 permalink: /videos/
 ---
@@ -14,7 +14,7 @@ Welcome to the video repository for SYDE 312. Here you'll find recordings of all
 - Click on any video to start watching
 - You can use the video controls to adjust playback speed, quality, and volume
 
-## Local Video Recordings
+## Course Videos
 
 <div class="video-entry">
   <h3>Team 2Blue1Brown - Presentation</h3>
@@ -33,20 +33,18 @@ Welcome to the video repository for SYDE 312. Here you'll find recordings of all
 </div>
 
 <div class="video-entry">
+  <h3>Team Span Fans - Presentation</h3>
+  <div class="video-container">
+    <iframe width="100%" height="480" src="https://www.youtube.com/embed/6arxFCaueWc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</div>
+
+<div class="video-entry">
   <h3>Team Span Fans - Q&A</h3>
   <video width="100%" controls>
     <source src="{{ site.baseurl }}/assets/videos/span-fans-qa.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-</div>
-
-## YouTube Videos
-
-<div class="video-entry">
-  <h3>Team Span Fans - Presentation</h3>
-  <div class="video-container">
-    <iframe width="100%" height="480" src="https://www.youtube.com/embed/6arxFCaueWc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
 </div>
 
 <div class="video-entry">
