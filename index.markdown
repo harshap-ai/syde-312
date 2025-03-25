@@ -16,7 +16,7 @@ title: Home
   <p style="font-size: 1.1em; line-height: 1.6; color: #34495e;">
     Hi there! This course offered by the <a href="https://uwaterloo.ca/"> University of Waterloo</a>, explores the practical applications of linear algebra through hands-on projects. 
     
-    Students work in teams to create engaging educational content using MANIM, implementing unintuitive linear algebra concepts in creative and accessible ways. Below are some of the outstanding projects from our students. 
+    Students work in teams to create engaging educational content either using <a href="https://www.manim.community/">MANIM</a> (inspired by <a href="https://www.youtube.com/c/3blue1brown">3B1B</a>) or through other S/W, implementing hitherto unintuitive linear algebra concepts in creative and accessible ways. Below are some of the outstanding projects from our students. 
   </p>
 </div>
 
@@ -67,7 +67,7 @@ title: Home
         <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Presentation</h4>
         <iframe 
           width="100%" 
-          height="315" 
+          height="210" 
           src="https://www.youtube.com/embed/6arxFCaueWc" 
           frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -84,10 +84,27 @@ title: Home
     </div>
   </div>
   
+  <!-- Project 3 -->
+  <div class="project-card" style="background: white; border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.1); padding: 25px; margin-bottom: 30px;">
+    <h3 style="font-size: 2em; margin-bottom: 5px; color: #2c3e50;">Team Eigenforce</h3>
+    <div class="team-info" style="margin-bottom: 20px;">
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
+        <strong>Team Members:</strong> Clara Liu, Ruiyang Li, Ash Chen, Juyeon Hong
+      </p>
+    </div>
+    <div style="text-align: center;">
+      <h4 style="color: #2c3e50; margin-bottom: 10px;">Presentation + Q&A</h4>
+      <video width="100%" controls>
+        <source src="{{ site.baseurl }}/assets/videos/eigenforce.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+  </div>
+  
   <!-- Add more project cards here as they come in -->
 </div>
 
 <footer style="text-align: center; margin-top: 50px; padding: 20px; color: #7f8c8d; font-size: 0.9em;">
-  <p>© 2025 SYDE 312 - University of Waterloo</p>
+  <p>© Harish Prakash</p>
 </footer>
 --- 
