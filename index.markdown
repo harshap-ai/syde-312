@@ -38,9 +38,6 @@ title: Home
           <source src="{{ site.baseurl }}/assets/videos/2blue1brown.mp4" type="video/mp4">
           Your browser does not support the video tag.
         </video>
-        <div style="font-size: 0.8em; color: #666; margin-top: 5px;">
-          Debug: {{ site.baseurl }}/assets/videos/2blue1brown.mp4
-        </div>
       </div>
       <div style="flex: 1;">
         <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Q&A</h4>
@@ -48,9 +45,6 @@ title: Home
           <source src="{{ site.baseurl }}/assets/videos/2blue-1brown-qa.mp4" type="video/mp4">
           Your browser does not support the video tag.
         </video>
-        <div style="font-size: 0.8em; color: #666; margin-top: 5px;">
-          Debug: {{ site.baseurl }}/assets/videos/2blue-1brown-qa.mp4
-        </div>
       </div>
     </div>
   </div>
