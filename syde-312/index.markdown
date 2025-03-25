@@ -3,27 +3,51 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Course
-
-This site contains lecture slides and videos for the course.
-
----- 
-
-<div style="text-align: center;">
-  <h1 style="font-size: 3em; margin-bottom: 0;">2Blue1Brown</h1>
-  <p style="font-size: 1.5em; margin-top: 0.2em;">Rakshita Jain, Allen Liu, Amanda Yu</p>
-
-<video width="480" controls>
-  <source src="{{ '/assets/videos/2blue1brown.mp4' | relative_url }}" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div class="course-header" style="text-align: center; padding: 40px 20px; background-color: #f8f9fa; margin-bottom: 40px;">
+  <h1 style="font-size: 3.5em; margin-bottom: 10px; color: #2c3e50;">SYDE 312: Applied Linear Algebra</h1>
+  <h2 style="font-size: 1.8em; color: #7f8c8d; font-weight: normal; margin-top: 0;">Winter 2025, University of Waterloo</h2>
+  <p style="font-size: 1.4em; color: #7f8c8d; margin-top: 10px;">
+    Instructor: <a href="https://harshap-ai.github.io" style="color: #0366d6; text-decoration: underline;">Harish Prakash</a> 
+  </p>
 </div>
 
+<div class="course-description" style="max-width: 800px; margin: 0 auto; padding: 0 20px; margin-bottom: 40px;">
+  <h2 style="color: #2c3e50; border-bottom: 2px solid #eee; padding-bottom: 10px;">About</h2>
+  <p style="font-size: 1.1em; line-height: 1.6; color: #34495e;">
+    Hi there! This course offered by the <a href="https://uwaterloo.ca/"> University of Waterloo</a>, explores the practical applications of linear algebra through hands-on projects. 
+    
+    Students work in teams to create engaging educational content using MANIM, implementing unintuitive linear algebra concepts in creative and accessible ways. Below are some of the outstanding projects from our students. 
+  </p>
+</div>
 
-  <!-- <div style="display: flex; justify-content: center; gap: 1rem; margin-top: 2rem;">
-    <iframe width="480" height="270" src="https://www.youtube.com/embed/VIDEO_ID_1" frameborder="0" allowfullscreen></iframe>
-    <iframe width="480" height="270" src="https://www.youtube.com/embed/VIDEO_ID_2" frameborder="0" allowfullscreen></iframe>
+<div class="projects" style="max-width: 800px; margin: 0 auto; padding: 0 20px;">
+  <h2 style="color: #2c3e50; border-bottom: 2px solid #eee; padding-bottom: 10px;">Course Projects</h2>
+  
+  <!-- Project 1 -->
+  <div class="project-card" style="background: white; border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.1); padding: 25px; margin-bottom: 30px;">
+    <h3 style="font-size: 2em; margin-bottom: 5px; color: #2c3e50;">Team 2Blue1Brown</h3>
+    <div class="team-info" style="margin-bottom: 20px;">
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
+        <strong>Team Members:</strong> Rakshita Jain, Allen Liu, Amanda Yu
+      </p>
+    </div>
+    <div style="text-align: center;">
+      <video width="720" controls>
+        <source src="{{ site.baseurl }}/assets/videos/2blue1brown.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div style="display: none">
+        Debug Info:
+        Base URL: {{ site.baseurl }}
+        Full URL: {{ site.url }}{{ site.baseurl }}/assets/videos/2blue1brown.mp4
+      </div>
+    </div>
   </div>
-</div> -->
+  
+  <!-- Add more project cards here as they come in -->
+</div>
 
+<footer style="text-align: center; margin-top: 50px; padding: 20px; color: #7f8c8d; font-size: 0.9em;">
+  <p>© 2025 SYDE 312 - University of Waterloo</p>
+</footer>
 --- 
