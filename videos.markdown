@@ -20,10 +20,16 @@ Welcome to the video repository for SYDE 312. Here you'll find recordings of all
   {% if video.path contains 'assets/videos' %}
     <div class="video-entry">
       <h3>{{ video.basename }}</h3>
-      <video width="100%" controls>
-        <source src="{{ site.baseurl }}{{ video.path }}" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      {% if video.basename == 'eigenforce' %}
+        <div class="video-container">
+          <iframe width="100%" height="480" src="https://www.youtube.com/embed/xetDZBtKv6g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      {% else %}
+        <video width="100%" controls>
+          <source src="{{ site.baseurl }}{{ video.path }}" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      {% endif %}
     </div>
   {% endif %}
 {% endfor %}
@@ -43,6 +49,24 @@ Welcome to the video repository for SYDE 312. Here you'll find recordings of all
 video {
   max-width: 100%;
   margin-top: 0.5em;
+  border-radius: 4px;
+}
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+  margin-top: 0.5em;
+  border-radius: 4px;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
   border-radius: 4px;
 }
 </style> 
