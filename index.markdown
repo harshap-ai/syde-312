@@ -23,7 +23,7 @@ title: Home
 <div class="projects" style="max-width: 800px; margin: 0 auto; padding: 0 20px;">
   <h2 style="color: #2c3e50; border-bottom: 2px solid #eee; padding-bottom: 10px;">Course Projects</h2>
   
-  <!-- Project 1 -->
+  <!-- Team 2Blue1Brown -->
   <div class="project-card" style="background: white; border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.1); padding: 25px; margin-bottom: 30px;">
     <h3 style="font-size: 2em; margin-bottom: 5px; color: #2c3e50;">Team 2Blue1Brown</h3>
     <div class="team-info" style="margin-bottom: 20px;">
@@ -49,7 +49,7 @@ title: Home
     </div>
   </div>
   
-  <!-- Project 2 -->
+  <!-- Team Span Fans -->
   <div class="project-card" style="background: white; border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.1); padding: 25px; margin-bottom: 30px;">
     <h3 style="font-size: 2em; margin-bottom: 5px; color: #2c3e50;">Team Span Fans</h3>
     <div class="team-info" style="margin-bottom: 20px;">
@@ -79,7 +79,7 @@ title: Home
     </div>
   </div>
   
-  <!-- Project 3 -->
+  <!-- Team Eigenforce -->
   <div class="project-card" style="background: white; border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.1); padding: 25px; margin-bottom: 30px;">
     <h3 style="font-size: 2em; margin-bottom: 5px; color: #2c3e50;">Team Eigenforce</h3>
     <div class="team-info" style="margin-bottom: 20px;">
@@ -97,6 +97,25 @@ title: Home
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowfullscreen>
         </iframe>
+      </div>
+    </div>
+  </div>
+
+<!-- Team Cypher -->
+  <div class="project-card" style="background: white; border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.1); padding: 25px; margin-bottom: 30px;">
+    <h3 style="font-size: 2em; margin-bottom: 5px; color: #2c3e50;">Team Cypher</h3>
+    <div class="team-info" style="margin-bottom: 20px;">
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
+        <strong>Team Members:</strong> Peter Whiting, Sohail Sayed, Riishi Jeevakumar, Ben Young 
+      </p>
+    </div>
+    <div style="text-align: center;">
+      <h4 style="color: #2c3e50; margin-bottom: 10px;">Presentation + Q&A</h4>
+      <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+        <video width="100%" controls>
+          <source src="{{ site.baseurl }}/assets/videos/team-cypher.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
       </div>
     </div>
   </div>
