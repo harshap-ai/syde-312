@@ -213,7 +213,29 @@ title: Home
       </div>
     </div>
   </div>
-  
+
+<!-- Team Linear -->
+  <div class="project-card" style="background: white; border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.1); padding: 25px; margin-bottom: 30px;">
+    <h3 style="font-size: 2em; margin-bottom: 5px; color: #2c3e50;">Team Linear</h3>
+    <div class="team-info" style="margin-bottom: 20px;">
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
+        <strong>Team Members:</strong> Lilly Yukhtman, Carl Lerdorf, Stephen Bassilios, Muad Abdinur
+      </p>
+    </div>
+    <div style="text-align: center;">
+      <h4 style="color: #2c3e50; margin-bottom: 10px;">Presentation + Q&A</h4>
+      <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+        <iframe 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          src="https://www.youtube.com/embed/YFwqWKcR6" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+      </div>
+    </div>
+  </div>
+
   <!-- Add more project cards here as they come in -->
 </div>
 
