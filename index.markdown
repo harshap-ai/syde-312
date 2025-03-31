@@ -153,6 +153,37 @@ title: Home
     </div>
   </div>
 
+
+  <!-- Team Vector Space Voyagers -->
+  <div class="project-card" style="background: white; border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.1); padding: 25px; margin-bottom: 30px;">
+    <h3 style="font-size: 2em; margin-bottom: 5px; color: #2c3e50;">Team Vector Space Voyagers</h3>
+    <div class="team-info" style="margin-bottom: 20px;">
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
+        <strong>Team Members:</strong> Vedanshee Patel, Carrie Albert, Tiffany Yang
+      </p>
+    </div>
+    <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
+      <div style="flex: 1;">
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Presentation</h4>
+        <iframe 
+          width="100%" 
+          height="210" 
+          src="https://www.youtube.com/embed/aG8x7AZfWCo" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+      </div>
+      <div style="flex: 1;">
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Q&A</h4>
+        <video width="100%" controls>
+          <source src="{{ site.baseurl }}/assets/videos/team-vector-space-voyagers.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+    </div>
+  </div>
+
   
   <!-- Add more project cards here as they come in -->
 </div>
