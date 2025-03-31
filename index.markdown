@@ -23,6 +23,31 @@ title: Home
 <div class="projects" style="max-width: 800px; margin: 0 auto; padding: 0 20px;">
   <h2 style="color: #2c3e50; border-bottom: 2px solid #eee; padding-bottom: 10px;">Course Projects</h2>
   
+  <!-- Team DETERMINATORS -->
+  <div class="project-card" style="background: white; border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.1); padding: 25px; margin-bottom: 30px;">
+    <h3 style="font-size: 2em; margin-bottom: 5px; color: #2c3e50;">Team DETERMINATORS</h3>
+    <div class="team-info" style="margin-bottom: 20px;">
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
+        <strong>Team Members:</strong> Kyleigh Sacbibit, Da Yun Chung, Yosha Aneja, Kate Lee 
+      </p>
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 10px 0;">
+        <strong>Project Website:</strong> <a href="https://dchung29.github.io/" target="_blank" style="color: #3498db; text-decoration: none;">Visit Team DETERMINATORS Website</a>
+      </p>
+    </div>
+    <div style="text-align: center;">
+      <h4 style="color: #2c3e50; margin-bottom: 10px;">Presentation + Q&A</h4>
+      <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+        <iframe 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          src="https://www.youtube.com/embed/jUoTyBHG8EM"
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+      </div>
+    </div>
+  </div>
+
   <!-- Team 2Blue1Brown -->
   <div class="project-card" style="background: white; border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.1); padding: 25px; margin-bottom: 30px;">
     <h3 style="font-size: 2em; margin-bottom: 5px; color: #2c3e50;">Team 2Blue1Brown</h3>
