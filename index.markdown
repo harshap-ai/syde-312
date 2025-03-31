@@ -31,7 +31,7 @@ title: Home
         <strong>Team Members:</strong> Kyleigh Sacbibit, Da Yun Chung, Yosha Aneja, Kate Lee 
       </p>
       <p style="font-size: 1.2em; color: #7f8c8d; margin: 10px 0;">
-        <strong>Project Website:</strong> <a href="https://dchung29.github.io/" target="_blank" style="color: #3498db; text-decoration: none;">Visit Team DETERMINATORS Website</a>
+        <strong>Project Website:</strong> <a href="https://dchung29.github.io/" target="_blank" style="color: #3498db; text-decoration: none;">https://dchung29.github.io/</a>
       </p>
     </div>
     <div style="text-align: center;">
@@ -285,6 +285,37 @@ title: Home
         <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Q&A</h4>
         <video width="100%" controls>
           <source src="{{ site.baseurl }}/assets/videos/team-the-determinators.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- Team Gram-Schmidt Gang -->
+  <div class="project-card" style="background: white; border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.1); padding: 25px; margin-bottom: 30px;">
+    <h3 style="font-size: 2em; margin-bottom: 5px; color: #2c3e50;">Team Gram-Schmidt Gang</h3>
+    <div class="team-info" style="margin-bottom: 20px;">
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
+        <strong>Team Members:</strong> Surya Sendhilraj, Aathithan Chandrabalan, Gurpreet Singh Multani, Dylan Ruth
+      </p>
+    </div>
+    <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
+      <div style="flex: 1;">
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Presentation</h4>
+        <iframe 
+          width="100%" 
+          height="210" 
+          src="https://www.youtube.com/embed/59miP_JhKS8" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+      </div>
+      <div style="flex: 1;">
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Q&A</h4>
+        <video width="100%" controls>
+          <source src="{{ site.baseurl }}/assets/videos/team-gram-schmidt-gang.mp4" type="video/mp4">
           Your browser does not support the video tag.
         </video>
       </div>
