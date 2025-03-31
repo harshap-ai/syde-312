@@ -259,7 +259,7 @@ title: Home
       <div style="flex: 1;">
         <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Q&A</h4>
         <video width="100%" controls>
-          <source src="{{ site.baseurl }}/assets/videos/team-curry-kimchi.mp4" type="video/mp4">
+          <source src="{{ site.baseurl }}/assets/videos/team-the-determinators.mp4" type="video/mp4">
           Your browser does not support the video tag.
         </video>
       </div>
