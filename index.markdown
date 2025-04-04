@@ -429,18 +429,22 @@ title: Home
         <iframe 
           width="100%" 
           height="210" 
-          src="https://www.youtube.com/embed/T0aUkmTD01w" 
+          src="https://www.youtube.com/embed/32_szevU6iQ" 
           frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowfullscreen>
         </iframe>
       </div>
       <div style="flex: 1;">
-        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Q&A</h4>
-        <video width="100%" controls>
-          <source src="{{ site.baseurl }}/assets/videos/team-escape-the-matrix.mp4" type="video/mp4">
-          Your browser does not support the video tag.
-        </video>
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Presentation</h4>
+        <iframe 
+          width="100%" 
+          height="210" 
+          src="https://www.youtube.com/embed/_7TVts1Rvwo" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
       </div>
     </div>
   </div>
@@ -459,18 +463,22 @@ title: Home
         <iframe 
           width="100%" 
           height="210" 
-          src="https://www.youtube.com/embed/T0aUkmTD01w" 
+          src="https://www.youtube.com/embed/SGJt1jO6le4" 
           frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowfullscreen>
         </iframe>
       </div>
       <div style="flex: 1;">
-        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Q&A</h4>
-        <video width="100%" controls>
-          <source src="{{ site.baseurl }}/assets/videos/team-escape-the-matrix.mp4" type="video/mp4">
-          Your browser does not support the video tag.
-        </video>
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Presentation</h4>
+        <iframe 
+          width="100%" 
+          height="210" 
+          src="https://www.youtube.com/embed/agycSr-MK4I" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
       </div>
     </div>
   </div>
@@ -489,18 +497,22 @@ title: Home
         <iframe 
           width="100%" 
           height="210" 
-          src="https://www.youtube.com/embed/T0aUkmTD01w" 
+          src="https://www.youtube.com/embed/-97v-BU-Vdg" 
           frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowfullscreen>
         </iframe>
       </div>
       <div style="flex: 1;">
-        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Q&A</h4>
-        <video width="100%" controls>
-          <source src="{{ site.baseurl }}/assets/videos/team-escape-the-matrix.mp4" type="video/mp4">
-          Your browser does not support the video tag.
-        </video>
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Presentation</h4>
+        <iframe 
+          width="100%" 
+          height="210" 
+          src="https://www.youtube.com/embed/kVrDwqVgD74" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
       </div>
     </div>
   </div>
@@ -519,18 +531,22 @@ title: Home
         <iframe 
           width="100%" 
           height="210" 
-          src="https://www.youtube.com/embed/T0aUkmTD01w" 
+          src="https://www.youtube.com/embed/L2d1nbpByRs" 
           frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowfullscreen>
         </iframe>
       </div>
       <div style="flex: 1;">
-        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Q&A</h4>
-        <video width="100%" controls>
-          <source src="{{ site.baseurl }}/assets/videos/team-escape-the-matrix.mp4" type="video/mp4">
-          Your browser does not support the video tag.
-        </video>
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Presentation</h4>
+        <iframe 
+          width="100%" 
+          height="210" 
+          src="https://www.youtube.com/embed/N1XtMduLQ4s" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
       </div>
     </div>
   </div>
@@ -549,18 +565,22 @@ title: Home
         <iframe 
           width="100%" 
           height="210" 
-          src="https://www.youtube.com/embed/T0aUkmTD01w" 
+          src="https://www.youtube.com/embed/4jq6B4_u0P4" 
           frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowfullscreen>
         </iframe>
       </div>
       <div style="flex: 1;">
-        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Q&A</h4>
-        <video width="100%" controls>
-          <source src="{{ site.baseurl }}/assets/videos/team-escape-the-matrix.mp4" type="video/mp4">
-          Your browser does not support the video tag.
-        </video>
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Presentation</h4>
+        <iframe 
+          width="100%" 
+          height="210" 
+          src="https://www.youtube.com/embed/OqB_8TSWf60" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
       </div>
     </div>
   </div>
