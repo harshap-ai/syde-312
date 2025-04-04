@@ -413,6 +413,226 @@ title: Home
     </div>
   </div>
 
+<!--------------------- Wednesday, April 2, 2025 ------------------->
+
+<!-- Team Linear Algebros -->
+  <div class="project-card" style="background: white; border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.1); padding: 25px; margin-bottom: 30px;">
+    <h3 style="font-size: 2em; margin-bottom: 5px; color: #2c3e50;">Team Linear Algebros</h3>
+    <div class="team-info" style="margin-bottom: 20px;">
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
+        <strong>Team Members:</strong> Vidhi Gokani, Mehak Dhaliwal, Aashi Shah, Ananya Jaikumar
+      </p>
+    </div>
+    <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
+      <div style="flex: 1;">
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Presentation</h4>
+        <iframe 
+          width="100%" 
+          height="210" 
+          src="https://www.youtube.com/embed/T0aUkmTD01w" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+      </div>
+      <div style="flex: 1;">
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Q&A</h4>
+        <video width="100%" controls>
+          <source src="{{ site.baseurl }}/assets/videos/team-escape-the-matrix.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+    </div>
+  </div>
+
+<!-- Team Matrix Masters -->
+  <div class="project-card" style="background: white; border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.1); padding: 25px; margin-bottom: 30px;">
+    <h3 style="font-size: 2em; margin-bottom: 5px; color: #2c3e50;">Team Matrix Masters</h3>
+    <div class="team-info" style="margin-bottom: 20px;">
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
+        <strong>Team Members:</strong> Saransh Rajiv Duggal, Gunit Raj Waghrey, Hard Shah, Aryan Rawat
+      </p>
+    </div>
+    <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
+      <div style="flex: 1;">
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Presentation</h4>
+        <iframe 
+          width="100%" 
+          height="210" 
+          src="https://www.youtube.com/embed/T0aUkmTD01w" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+      </div>
+      <div style="flex: 1;">
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Q&A</h4>
+        <video width="100%" controls>
+          <source src="{{ site.baseurl }}/assets/videos/team-escape-the-matrix.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+    </div>
+  </div>
+
+<!-- Team Determinant Minds -->
+  <div class="project-card" style="background: white; border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.1); padding: 25px; margin-bottom: 30px;">
+    <h3 style="font-size: 2em; margin-bottom: 5px; color: #2c3e50;">Team Determinant Minds</h3>
+    <div class="team-info" style="margin-bottom: 20px;">
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
+        <strong>Team Members:</strong> Zaynah Bhanji, Sinthiya Krishnakumar, Tanisha Nigam, Subeka Manokanthan
+      </p>
+    </div>
+    <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
+      <div style="flex: 1;">
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Presentation</h4>
+        <iframe 
+          width="100%" 
+          height="210" 
+          src="https://www.youtube.com/embed/T0aUkmTD01w" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+      </div>
+      <div style="flex: 1;">
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Q&A</h4>
+        <video width="100%" controls>
+          <source src="{{ site.baseurl }}/assets/videos/team-escape-the-matrix.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+    </div>
+  </div>
+
+<!-- Team Vector Victors -->
+  <div class="project-card" style="background: white; border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.1); padding: 25px; margin-bottom: 30px;">
+    <h3 style="font-size: 2em; margin-bottom: 5px; color: #2c3e50;">Team Vector Victors</h3>
+    <div class="team-info" style="margin-bottom: 20px;">
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
+        <strong>Team Members:</strong> Joshua Chang, Arya Javadi, Yousuf Zia
+      </p>
+    </div>
+    <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
+      <div style="flex: 1;">
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Presentation</h4>
+        <iframe 
+          width="100%" 
+          height="210" 
+          src="https://www.youtube.com/embed/T0aUkmTD01w" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+      </div>
+      <div style="flex: 1;">
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Q&A</h4>
+        <video width="100%" controls>
+          <source src="{{ site.baseurl }}/assets/videos/team-escape-the-matrix.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+    </div>
+  </div>
+
+<!-- Team Kernel Club -->
+  <div class="project-card" style="background: white; border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.1); padding: 25px; margin-bottom: 30px;">
+    <h3 style="font-size: 2em; margin-bottom: 5px; color: #2c3e50;">Team Kernel Club</h3>
+    <div class="team-info" style="margin-bottom: 20px;">
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
+        <strong>Team Members:</strong> Michael Icharia, Tracy Wai, Jessica Piirsalu, Sonia Tinaz
+      </p>
+    </div>
+    <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
+      <div style="flex: 1;">
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Presentation</h4>
+        <iframe 
+          width="100%" 
+          height="210" 
+          src="https://www.youtube.com/embed/T0aUkmTD01w" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+      </div>
+      <div style="flex: 1;">
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Q&A</h4>
+        <video width="100%" controls>
+          <source src="{{ site.baseurl }}/assets/videos/team-escape-the-matrix.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+    </div>
+  </div>
+
+<!-- Team The Determinators -->
+  <div class="project-card" style="background: white; border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.1); padding: 25px; margin-bottom: 30px;">
+    <h3 style="font-size: 2em; margin-bottom: 5px; color: #2c3e50;">Team The Determinators</h3>
+    <div class="team-info" style="margin-bottom: 20px;">
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
+        <strong>Team Members:</strong> Maya Baboolal, Adam Linton, David Liu
+      </p>
+    </div>
+    <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
+      <div style="flex: 1;">
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Presentation</h4>
+        <iframe 
+          width="100%" 
+          height="210" 
+          src="https://www.youtube.com/embed/rOk7kVj1kEg" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+      </div>
+      <div style="flex: 1;">
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Presentation</h4>
+        <iframe 
+          width="100%" 
+          height="210" 
+          src="https://www.youtube.com/embed/3zYb4c8vCg0" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+      </div>
+    </div>
+  </div>
+
+
+<!-- Team Basis Bandits -->
+  <div class="project-card" style="background: white; border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.1); padding: 25px; margin-bottom: 30px;">
+    <h3 style="font-size: 2em; margin-bottom: 5px; color: #2c3e50;">Team Basis Bandits</h3>
+    <div class="team-info" style="margin-bottom: 20px;">
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
+        <strong>Team Members:</strong> Prakruti Gajera, Thomas Fieguth, Robin Xiang, Gaetano Rispoli
+      </p>
+    </div>
+    <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
+      <div style="flex: 1;">
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Presentation</h4>
+        <iframe 
+          width="100%" 
+          height="210" 
+          src="https://www.youtube.com/embed/A8IVrA1Msf4" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+      </div>
+      <div style="flex: 1;">
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Presentation</h4>
+        <iframe 
+          width="100%" 
+          height="210" 
+          src="https://www.youtube.com/embed/Tb8QTZMLPLg" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+      </div>
+    </div>
+  </div>
 
 </div>
 
