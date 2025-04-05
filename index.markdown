@@ -24,7 +24,7 @@ title: Home
       <img src="{{ site.baseurl }}/assets/images/syde-312-group-pic.jpg" alt="Linear Algebra Visualization" style="width: 100%; height: auto; display: block;">
     </div>
     <p style="font-style: italic; color: #666; margin-top: 10px; font-size: 0.9em;">
-      A visual representation of linear transformations in 3D space, created by our students using MANIM
+      The outstanding students of SYDE 312 (Winter 2025). 
     </p>
   </div>
 </div>
