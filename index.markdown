@@ -18,6 +18,15 @@ title: Home
     
     Students work in teams to create engaging educational content either using <a href="https://www.manim.community/">MANIM</a> (inspired by <a href="https://www.youtube.com/c/3blue1brown">3B1B</a>) or through other S/W, implementing hitherto unintuitive linear algebra concepts in creative and accessible ways. Below are some of the outstanding projects from our students. 
   </p>
+  
+  <div style="margin: 30px 0; text-align: center;">
+    <div style="border: 15px solid #8B4513; border-radius: 8px; padding: 10px; background-color: #FFF8DC; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <img src="{{ site.baseurl }}/assets/images/syde-312-group-pic.jpg" alt="Linear Algebra Visualization" style="width: 100%; height: auto; display: block;">
+    </div>
+    <p style="font-style: italic; color: #666; margin-top: 10px; font-size: 0.9em;">
+      A visual representation of linear transformations in 3D space, created by our students using MANIM
+    </p>
+  </div>
 </div>
 
 <div class="projects" style="max-width: 800px; margin: 0 auto; padding: 0 20px;">
