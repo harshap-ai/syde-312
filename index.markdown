@@ -726,9 +726,7 @@ title: Home
       </div>
     </div>
   </div>
-
-</div>
-
+  </div>
 <footer style="text-align: center; margin-top: 50px; padding: 20px; color: #7f8c8d; font-size: 0.9em;">
   <p>© All the brilliant students of SYDE 312, Winter 2025</p>
 </footer>
