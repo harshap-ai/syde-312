@@ -436,7 +436,7 @@ title: Home
         </iframe>
       </div>
       <div style="flex: 1;">
-        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Presentation</h4>
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Q&A</h4>
         <iframe 
           width="100%" 
           height="210" 
@@ -470,7 +470,7 @@ title: Home
         </iframe>
       </div>
       <div style="flex: 1;">
-        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Presentation</h4>
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Q&A</h4>
         <iframe 
           width="100%" 
           height="210" 
@@ -504,7 +504,7 @@ title: Home
         </iframe>
       </div>
       <div style="flex: 1;">
-        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Presentation</h4>
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Q&A</h4>
         <iframe 
           width="100%" 
           height="210" 
@@ -538,7 +538,7 @@ title: Home
         </iframe>
       </div>
       <div style="flex: 1;">
-        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Presentation</h4>
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Q&A</h4>
         <iframe 
           width="100%" 
           height="210" 
@@ -572,7 +572,7 @@ title: Home
         </iframe>
       </div>
       <div style="flex: 1;">
-        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Presentation</h4>
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Q&A</h4>
         <iframe 
           width="100%" 
           height="210" 
@@ -606,7 +606,7 @@ title: Home
         </iframe>
       </div>
       <div style="flex: 1;">
-        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Presentation</h4>
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Q&A</h4>
         <iframe 
           width="100%" 
           height="210" 
@@ -641,7 +641,7 @@ title: Home
         </iframe>
       </div>
       <div style="flex: 1;">
-        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Presentation</h4>
+        <h4 style="text-align: center; color: #2c3e50; margin-bottom: 10px;">Q&A</h4>
         <iframe 
           width="100%" 
           height="210" 
