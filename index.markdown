@@ -39,6 +39,9 @@ title: Home
       <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
         <strong>Team Members:</strong> Kyleigh Sacbibit, Da Yun Chung, Yosha Aneja, Kate Lee 
       </p>
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 10px 0; text-align: center;">
+        <strong>Topic:</strong> Linear Transformations and Subspaces
+      </p>
       <p style="font-size: 1.2em; color: #7f8c8d; margin: 10px 0;">
         <strong>Project Website:</strong> <a href="https://dchung29.github.io/" target="_blank" style="color: #3498db; text-decoration: none;">https://dchung29.github.io/</a>
       </p>
@@ -63,6 +66,9 @@ title: Home
     <div class="team-info" style="margin-bottom: 20px;">
       <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
         <strong>Team Members:</strong> Rakshita Jain, Allen Liu, Amanda Yu
+      </p>
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 10px 0; text-align: center;">
+        <strong>Topic:</strong> Linear Algebra Concepts in Image Processing
       </p>
     </div>
     <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
@@ -89,6 +95,9 @@ title: Home
     <div class="team-info" style="margin-bottom: 20px;">
       <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
         <strong>Team Members:</strong> Tessa Baker, Sophie Wang, Rachel Wormald, Diana Zhang 
+      </p>
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 10px 0; text-align: center;">
+        <strong>Topic:</strong> Airplane turbulance using vectors
       </p>
     </div>
     <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
@@ -120,6 +129,9 @@ title: Home
       <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
         <strong>Team Members:</strong> Clara Liu, Ruiyang Li, Ash Chen, Juyeon Hong
       </p>
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 10px 0; text-align: center;">
+        <strong>Topic:</strong> CNN and Batch Normalization
+      </p>
     </div>
     <div style="text-align: center;">
       <h4 style="color: #2c3e50; margin-bottom: 10px;">Presentation + Q&A</h4>
@@ -142,6 +154,9 @@ title: Home
       <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
         <strong>Team Members:</strong> Peter Whiting, Sohail Sayed, Riishi Jeevakumar, Ben Young 
       </p>
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 10px 0; text-align: center;">
+        <strong>Topic:</strong> Breaking Down Spaces Using Direct Sums
+      </p>
     </div>
     <div style="text-align: center;">
       <h4 style="color: #2c3e50; margin-bottom: 10px;">Presentation + Q&A</h4>
@@ -163,6 +178,9 @@ title: Home
     <div class="team-info" style="margin-bottom: 20px;">
       <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
         <strong>Team Members:</strong> Paige Kobzar, Tiffany Yang, Catherine Burns
+      </p>
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 10px 0; text-align: center;">
+        <strong>Topic:</strong> PCA: Losing data wisely
       </p>
     </div>
     <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
@@ -195,6 +213,9 @@ title: Home
       <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
         <strong>Team Members:</strong> Vedanshee Patel, Carrie Albert, Tiffany Yang
       </p>
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 10px 0; text-align: center;">
+        <strong>Topic:</strong> Image Processing with Matrix Operations
+      </p>
     </div>
     <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
       <div style="flex: 1;">
@@ -224,6 +245,9 @@ title: Home
     <div class="team-info" style="margin-bottom: 20px;">
       <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
         <strong>Team Members:</strong> Ameen Walli-Attaei, Arul Arora, Edward Na
+      </p>
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 10px 0; text-align: center;">
+        <strong>Topic:</strong> Visualization of PCA
       </p>
     </div>
     <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
@@ -255,6 +279,9 @@ title: Home
       <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
         <strong>Team Members:</strong> Lilly Yukhtman, Carl Lerdorf, Stephen Bassilios, Muad Abdinur
       </p>
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 10px 0; text-align: center;">
+        <strong>Topic:</strong> Robotic arm movement Kinematics
+      </p>
     </div>
     <div style="text-align: center;">
       <h4 style="color: #2c3e50; margin-bottom: 10px;">Presentation + Q&A</h4>
@@ -276,6 +303,9 @@ title: Home
     <div class="team-info" style="margin-bottom: 20px;">
       <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
         <strong>Team Members:</strong> Nathan Souphanthong, Skyler Chiu, Devanshi Paliwal, Nicky Lam
+      </p>
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 10px 0; text-align: center;">
+        <strong>Topic:</strong> Exploring Rank and Nullity
       </p>
     </div>
     <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
@@ -308,6 +338,9 @@ title: Home
       <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
         <strong>Team Members:</strong> Surya Sendhilraj, Aathithan Chandrabalan, Gurpreet Singh Multani, Dylan Ruth
       </p>
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 10px 0; text-align: center;">
+        <strong>Topic:</strong> Eigenvectors and Eigenvalues
+      </p>
     </div>
     <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
       <div style="flex: 1;">
@@ -338,6 +371,9 @@ title: Home
       <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
         <strong>Team Members:</strong> Heather Li Yam Nam, Iris Quan, Rachel Baek
       </p>
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 10px 0; text-align: center;">
+        <strong>Topic:</strong> Using Stiffness Matrices to Discretize Differential Equations in Finite Element Analysis
+      </p>
     </div>
     <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
       <div style="flex: 1;">
@@ -367,6 +403,9 @@ title: Home
     <div class="team-info" style="margin-bottom: 20px;">
       <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
         <strong>Team Members:</strong> Sydney LeBlanc, Tara Rao-Pandit, Lana McKay, Laura Persichini
+      </p>
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 10px 0; text-align: center;">
+        <strong>Topic:</strong> Visualizing Linear Transformations
       </p>
     </div>
     <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
@@ -399,6 +438,9 @@ title: Home
       <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
         <strong>Team Members:</strong> Emad Haq, Rizwan Hamidi, David McGuire, Seung-Woo Kim
       </p>
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 10px 0; text-align: center;">
+        <strong>Topic:</strong> Blending reality - Homography in Action
+      </p>
     </div>
     <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
       <div style="flex: 1;">
@@ -430,6 +472,10 @@ title: Home
     <div class="team-info" style="margin-bottom: 20px;">
       <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
         <strong>Team Members:</strong> Vidhi Gokani, Mehak Dhaliwal, Aashi Shah, Ananya Jaikumar
+      </p>
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 10px 0; text-align: center;">
+        <strong>Topic:</strong> Row & Column Spaces
+
       </p>
     </div>
     <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
@@ -465,6 +511,8 @@ title: Home
       <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
         <strong>Team Members:</strong> Saransh Rajiv Duggal, Gunit Raj Waghrey, Hard Shah, Aryan Rawat
       </p>
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 10px 0; text-align: center;">
+        <strong>Topic:</strong> QR Decomposition For Drone Navigation
     </div>
     <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
       <div style="flex: 1;">
@@ -498,6 +546,9 @@ title: Home
     <div class="team-info" style="margin-bottom: 20px;">
       <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
         <strong>Team Members:</strong> Zaynah Bhanji, Sinthiya Krishnakumar, Tanisha Nigam, Subeka Manokanthan
+      </p>
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 10px 0; text-align: center;">
+        <strong>Topic:</strong> Singular Value Decomposition (SVD) and Latent Semantic Analysis (LSA)
       </p>
     </div>
     <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
@@ -533,6 +584,10 @@ title: Home
       <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
         <strong>Team Members:</strong> Joshua Chang, Arya Javadi, Yousuf Zia
       </p>
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 10px 0; text-align: center;">
+        <strong>Topic:</strong> Visualizing Distance Metrics in Machine Learning Using MANIM
+
+      </p>
     </div>
     <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
       <div style="flex: 1;">
@@ -566,6 +621,9 @@ title: Home
     <div class="team-info" style="margin-bottom: 20px;">
       <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
         <strong>Team Members:</strong> Michael Icharia, Tracy Wai, Jessica Piirsalu, Sonia Tinaz
+      </p>
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 10px 0; text-align: center;">
+        <strong>Topic:</strong> SVD and PCA for Targeted Ads
       </p>
     </div>
     <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
@@ -601,6 +659,9 @@ title: Home
       <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
         <strong>Team Members:</strong> Maya Baboolal, Adam Linton, David Liu
       </p>
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 10px 0; text-align: center;">
+        <strong>Topic:</strong> SVD & PCA for Space Telescope Imaging
+      </p>
     </div>
     <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
       <div style="flex: 1;">
@@ -635,6 +696,9 @@ title: Home
     <div class="team-info" style="margin-bottom: 20px;">
       <p style="font-size: 1.2em; color: #7f8c8d; margin: 0;">
         <strong>Team Members:</strong> Prakruti Gajera, Thomas Fieguth, Robin Xiang, Gaetano Rispoli
+      </p>
+      <p style="font-size: 1.2em; color: #7f8c8d; margin: 10px 0; text-align: center;">
+        <strong>Topic:</strong> Using Injectivity, Surjectivity, and Bijectivity to Show Embedding and Projection
       </p>
     </div>
     <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
